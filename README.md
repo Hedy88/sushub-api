@@ -21,3 +21,4 @@ you also should change the config file (/config/defualt.ts) to your mongoDB serv
 to change the port that the node api is running, change the port value in the config file.
 
 note: still wip
+i'll clean this later.
